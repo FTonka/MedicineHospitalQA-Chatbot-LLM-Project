@@ -1,1 +1,1 @@
-In this project, a ChatBot application has been developed using the large language model ChatGPT 3.5 Turbo, enabling users to chat with medicine leaflets. The project has been developed using the RAG (Retrieval Augmented Generation) method and is trained only on the 100 most common medicine.
+To use the model, you need to rent the API from the OpenAI page and paste it where required.
